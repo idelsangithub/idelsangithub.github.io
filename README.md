@@ -38,10 +38,10 @@ Soy Ingeniero de Sistemas con más de 10 años de experiencia diseñando y const
   * Colaboración directa con Product Owners para transformar requerimientos complejos en arquitecturas de software robustas.
   * Optimización de procesos técnicos e integración de flujos asistidos por IA.
 
-* **Programador Fullstack (Freelance)** *(Agosto 2018 – Enero 2022)*
+* **Programador Fullstack (Freelance)** *(Septiembre 2018 – Enero 2022)*
   * Desarrollo del core de negocio para plataformas como **Cesta Pago** (integraciones bancarias y facturación electrónica) y soluciones automatizadas para Bcollective y Endemol Shine Boomdog.
 
-* **Programador Fullstack | Kavak (México)** *(Enero 2016 – Junio 2022)*
+* **Programador Fullstack | Kavak (México)** *(Enero 2016 – Agosto 2018)*
   * Refactorización de portales principales e implementación de servicios backend escalables utilizando **Java, Nodejs**.
 
 ---
